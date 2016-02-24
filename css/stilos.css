@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  margin: 0;
+  background-color:#ccc;
+
+	background: url('../images/background.png');
+ 
+}
+.contenedor{
+	
+	background-color:#FFF;
+	border:medium;
+	border-radius:10px;
+		width:60%;
+		 
+		margin:0 auto;
+		height:650px;
+		 
+	}
